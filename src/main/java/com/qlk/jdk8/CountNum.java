@@ -4,7 +4,7 @@ import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 
 public class CountNum extends RecursiveTask<Integer> {
-
+//加点注释***
     private static final int THREAD_HOLD = 2;
 
     private int start;
